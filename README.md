@@ -6,5 +6,5 @@ mapnik 2.0
 gdal
 
 To run:
->> python 
+> python surveyingmain.py
 =========
