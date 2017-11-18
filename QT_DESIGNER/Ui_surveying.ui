@@ -2807,7 +2807,7 @@ stop: 0.9 #4c4c4c, stop: 1 #333333);
       <set>Qt::ImhNone</set>
      </property>
      <property name="text">
-      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:600; font-style:italic; color:#aa0000;&quot;&gt;GeoCalculator 1.0&lt;/span&gt;&lt;/p&gt;&lt;p&gt;GeoCalculator, ölçme hesaplamaları, harita görselleştirme ve raporlama programcıklarını sunan bir CBS yazılımdır. Linux, MacOS ve Windows işletim sistemlerinde çalışabilir.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Edip Ahmet TAŞKIN, Abdulgani SARAÇ&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;span style=&quot; color:#00007f;&quot;&gt;geomath31@gmail.com&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:600; font-style:italic; color:#aa0000;&quot;&gt;GeoCalculator 1.0&lt;/span&gt;&lt;/p&gt;&lt;p&gt;GeoCalculator, ölçme hesaplamaları, harita görselleştirme ve raporlama programcıklarını sunan bir CBS yazılımdır. Linux, MacOS ve Windows işletim sistemlerinde çalışabilir.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Edip Ahmet TAŞKIN &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;span style=&quot; color:#00007f;&quot;&gt;geomath31@gmail.com&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
      <property name="textFormat">
       <enum>Qt::RichText</enum>
