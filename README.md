@@ -1,4 +1,4 @@
-Warning: This is an old project. This program shouldn't be used for surveying. There are many bugs about maths and logic. If you would like to have stable stuff for Android here is the link: https://play.google.com/store/apps/details?id=org.project.geoclass
+Warning: This is an old project. This program shouldn't be used for surveying. There are some bugs for "Temel Ödevler", "Geriden Kestirme", and "ileriden Kestirme". If you would like to have stable surveying app for Android here is the link: https://play.google.com/store/apps/details?id=org.project.geoclass
 
 Geocalculator includes basic surveying calculations such as traverse, road calculations, shp file renderer and shp coordinate generator.
 Requirements:
